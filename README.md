@@ -1,1 +1,41 @@
 
+# Malicious_Packages
+
+##
+
+![alt text](data:image/png;base64,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)
+
+
+### FOLDER
+
+1. In "Codes" we have: 
+
+      1. "building_tgz_meta_data.py" - This file runs and collects all the "malware" packages from "github advisory", then it searches in 8 different mirrors to find 
+         said packages. if it finds new packages, it downloads them to a folder that was pre determined as well as gather data about the package.
+         code outputs: csv file for new packages metadata, json file for new packages metadata, downloded packages in pre determined folder,
+         json file for all "github advisory's" malware packages in a pre determined range. 
+            
+            to run this file you need a couple of things:
+            1) to install 5 packages "requests", "beautifulsoup4", "csv", "urllib3", "wget".
+               use:
+                  1. "pip install requests"
+                  2. "pip install beautifulsoup4"
+                  3. "pip install csv"
+                  4. "pip install urllib3"
+                  5. "pip install wget"
+
+            2) to change 4 parameters:
+                  1. (X_start) - (int) the first page to be searched in "github advisory" for malware packages
+                  2. (X_finish) - (int) the last page to be searched in "github advisory" for malware packages
+                  3. (folder_url) - (str) the complete path to the folder you wish the new found packages will be downloaded to
+                  4. (already_found_meta_data) - (dict) all the found and downloaded packages' metadata - can be copied from the file "already_found_meta_data" located                      in - "Tgz_files/already_found_meta_data.txt"
+            
+            after the run, the new data collected needs to be added to these files on github:
+            1) from the file "malicious_meta_data_table.csv" located in the code's folder to "Npm - MetaData.csv" (location - "Tgz_files/Npm - MetaData.csv")
+            2) from the file "all_tgz_malicious_github_advisory.json" located in the code's folder to "already_found_meta_data.txt" 
+               (location - "Tgz_files/already_found_meta_data.txt")
+            3) from the folder you chose to be the receptor for all new packages - you need to upload the packages to the folder "NPM" 
+               (location - "Tgz_files/NPM/")
+
+      2. "explore_evil_packages_files.py" -  This file should be running on Google Colab to explore the Malicious Packages on cloud and not on the privte                                                                computer.
+      
