@@ -23,4 +23,16 @@ Returns None - if we can't tell.
 ### test_typo
 
       In this test case we check URLs that are supposed to be phishing due to a typo
+
+### test_subdomain
+      
+      In this test case, we check URLs that are supposed to be phishing due to domain impersonation using the subdomain.
+
+### test_mixed
+      
+      In this test case, we check URLs that are supposed to be phishing with a combination of typo and posing domain using the subdomain.
+      
+### test_unique
+
+      In this test case, we test URLs that we can't tell if they are phishing or not - should return None
       
