@@ -11,7 +11,9 @@ In this folder there is the file Phishing.py which contains the code
 that performs the tests according to the list of brands we received.
 
 Returns True - if the url is indeed Phishing
+
 Returns False - if the url is not Phishing and its domain is in the list of brands.
+
 Returns None - if we can't tell.
 
 ## test
